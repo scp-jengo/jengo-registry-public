@@ -1,0 +1,19 @@
+name: jengo-registry-public
+layer: registry
+tier: public
+version: 1.0.0
+description: Public API registry and capability discovery endpoints
+
+permissions:
+  read: []
+  write: [self]
+  execute: []
+
+dependencies:
+  required: []
+  optional: []
+
+scope: |
+  Contains public API definitions and capability discovery endpoints:
+  OpenAPI specs, capability manifests, and integration documentation.
+  Allows external systems to discover and integrate with Jengo's services.
