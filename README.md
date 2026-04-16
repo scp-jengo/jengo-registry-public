@@ -756,4 +756,4 @@ These schemas and templates are PUBLIC and freely shareable.
 
 **Version:** 1.0.0
 **Status:** ACTIVE - Open-source workspace schemas
-**License:** MIT (when published) - currently PRIVATE during development
+**License:** MIT
